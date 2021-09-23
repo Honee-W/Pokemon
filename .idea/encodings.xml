@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/Airplane.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/Award.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/Bee.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/Boss.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/Bullet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/Enemy.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/Hero.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/RotateImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/fly/ShootGame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/System.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/data/Dialogue.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/data/ImageData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/data/Map.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/data/MonsterData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/data/SavaAndLoad.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/npc/Monster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/npc/Player.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/npc/Prop.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/BagUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/BattleUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/DiaLogUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/EscUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/ForecastUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/JumpUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/LevelUpUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/MainUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/MessageUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/PrintFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edu/nwpu/pokemon/ui/ShopUI.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
